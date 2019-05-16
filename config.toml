@@ -1,0 +1,37 @@
+languageCode = "en-us"
+title = "Aerial"
+baseurl = "http://echiyembekeza.github.io/"
+theme = "aerial"
+
+[params]
+  name = "Eric Chiyembekeza"
+  about = "Introverted &nbsp;&bull;&nbsp; Inquisitive &nbsp;&bull;&nbsp; Incomplete"
+  copyright = "ericc"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = ""
+  favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "LinkedIn"
+  icon = "linkedin"
+  link = "www.linkedin.com/in/ericchiyembekeza"
+
+[[params.social]]
+  medium = "Instagram"
+  icon = "instagram"
+  link = "www.instagram.com/qualichealth"
+
+#[[params.social]]
+  #medium = "Dribbble"
+  #icon = "dribbble"
+  #link = "#"
+
+[[params.social]]
+  medium = "Github"
+  icon = "github"
+  link = "www.github.com/echiyembekeza"
+
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "eric@qualichealth.com"
